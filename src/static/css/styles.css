@@ -42,3 +42,7 @@ button:focus {
     margin-right: auto;
     
 }
+
+body {
+    background-color: rgb(32, 46, 32);
+}
